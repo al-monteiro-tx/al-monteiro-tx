@@ -1,7 +1,7 @@
 # Al Monteiro
 
 **Dallas, TX Metroplex**  
-📞 (972) 693-3111 | ✉️ al.monteiro.tx@gmail.com  
+✉️ al.monteiro.tx@gmail.com | Full-time or Contract
 
 🔗 LinkedIn: https://www.linkedin.com/  
 🔗 GitHub: https://github.com/al-monteiro-tx  
