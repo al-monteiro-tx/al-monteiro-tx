@@ -1,7 +1,7 @@
 # Al Monteiro
 
 **Dallas, TX Metroplex**  
-✉️ al.monteiro.tx@gmail.com | Full-time or Contract
+✉️ al.monteiro.tx@gmail.com | open to Full-time or Contract
 
 🔗 LinkedIn: https://www.linkedin.com/  
 🔗 GitHub: https://github.com/al-monteiro-tx  
