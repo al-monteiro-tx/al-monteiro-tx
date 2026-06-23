@@ -1,6 +1,6 @@
 # AL MONTEIRO
 
-![Al Monteiro]([Al Monteiro - Sr. IT Project Manager Dallas TX.jpg](https://github.com/al-monteiro-tx/al-monteiro-tx.github.io/blob/main/Al%20Monteiro%20-%20Sr.%20IT%20Project%20Manager%20Dallas%20TX.jpg))
+![Al Monteiro](Al Monteiro - Sr. IT Project Manager Dallas TX.jpg)
 
 **Dallas, TX Metroplex**  
 ✉️ al.monteiro.tx@gmail.com | Open to Full-time or Contract
