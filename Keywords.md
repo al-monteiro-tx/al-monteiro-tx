@@ -35,3 +35,5 @@ Health Insurance IT Project Manager
 Telecom IT Project Manager
 Hands on Project Manager
 Ambiguity IT Project Manager
+Technical Account Manager (TAM)
+Customer Success Manager (CSM)
