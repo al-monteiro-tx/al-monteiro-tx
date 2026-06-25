@@ -21,13 +21,9 @@
 
 # PROFESSIONAL SUMMARY
 
-Enterprise IT Program Manager and **Technical Program Management (TPM)** leader with **15+ years** driving large-scale digital transformations, complex application modernizations, and cloud/SaaS integrations across telecommunications, healthcare, and financial services. 
+Enterprise IT Program Manager and Technical Program Management (TPM) leader with 15+ years driving large-scale digital transformations, complex application modernizations, and cloud/SaaS integrations across telecommunications, healthcare, and financial services. Certified SAFe Program Consultant with proven expertise managing multi-million dollar portfolios ($11M+) and directing cross-functional, globally distributed teams spanning software engineering, enterprise architecture, infrastructure, DevOps, and data engineering. 
 
-**Certified SAFe Program Consultant** with proven expertise managing **multi-million dollar portfolios ($11M+)** and directing cross-functional, globally distributed teams spanning software engineering, enterprise architecture, infrastructure, DevOps, and data engineering.
-
-Track record scaling Agile frameworks (**SAFe, Scrum**) and hybrid SDLC methodologies to enhance delivery predictability, strengthen executive visibility, and optimize release governance. Strategic technical delivery leader in **CRM modernization** (Lead-to-Quote, Lead-to-Cash workflows), **BI analytics modernization**, enterprise data migrations, and establishing scalable infrastructure for data-driven decision-making. 
-
-Expertise in program increment planning, portfolio roadmapping, RAID risk management, stakeholder alignment, and executive reporting.
+Track record scaling Agile frameworks (SAFe, Scrum) and hybrid SDLC methodologies to enhance delivery predictability, strengthen executive visibility, and optimize release governance. Strategic technical delivery leader in CRM modernization (Lead-to-Quote, Lead-to-Cash workflows), BI analytics modernization, enterprise data migrations, and establishing scalable infrastructure for data-driven decision-making. Expertise in program increment planning, portfolio roadmapping, RAID risk management, stakeholder alignment, and executive reporting.
 
 ---
 
@@ -116,13 +112,6 @@ Jira Enterprise | Confluence | Rally | Microsoft Project | Visio | SQL | ETL | A
 - Directed **$4M** enterprise integration initiative mapping BCBS Texas health plan data into Caremark PBM systems
 - Orchestrated CRM modernizations, secure data migrations, and SaaS platform rollouts under healthcare regulatory compliance
 - Partnered with PMO leadership to define delivery governance, risk escalation, and executive transparency dashboards
-
-## VERIZON CONSUMER | Irving, TX  
-**Group Manager / Associate Director / Senior IT Project Manager** | Nov 1999 – Sep 2013
-- Promoted through progressive leadership roles directing global technology modernizations and customer experience transformations
-- Directed **$11M** global broadband Lead-to-Cash enterprise technology portfolio managing 20–45 concurrent initiatives annually
-- Led 28-person internal PMO organization overseeing 10,000+ monthly development hours across CRM, OMS, ERP, and BSS ecosystems
-- Standardized delivery governance across Waterfall and Scrum environments while improving cross-organizational predictability
 
 ---
 
