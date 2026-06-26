@@ -1,27 +1,3 @@
-<meta name="description" content="Al Monteiro - Senior Technical Program Manager & SAFe Certified Leader in Dallas TX. 15+ years driving Enterprise Agile Delivery, CRM Modernization, BI Analytics, SaaS Integration, and Technology Transformation.">
-<meta name="keywords" content="Senior Technical Program Manager, SAFe Program Consultant, IT Project Manager Dallas, Agile Delivery, CRM Modernization, BI Analytics, Technology Transformation, PMO Governance, Verizon, Blue Cross Blue Shield">
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Al Monteiro",
-  "jobTitle": "Senior Technical Program Manager",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Dallas",
-    "addressRegion": "TX"
-  },
-  "email": "al.monteiro.tx@gmail.com",
-  "telephone": "(972) 693-3111",
-  "url": "https://al-monteiro-tx.github.io/",
-  "sameAs": [
-    "https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111",
-    "https://profile.indeed.com/p/alm-d0wcjqr"
-  ]
-}
-</script>
-
 <div align="center">
   <img src="Al Monteiro - Sr. IT Project Manager Dallas TX.jpg" 
        alt="Al Monteiro - Senior Technical Program Manager Dallas TX" 
