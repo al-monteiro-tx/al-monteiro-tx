@@ -2,7 +2,7 @@
 <meta name="keywords" content="Technical Program Manager, SAFe Program Consultant, IT Project Manager Dallas, CRM Modernization, Agile Delivery, BI Analytics, Verizon Business, CVS Caremark, Frontier Communications, Blue Cross Blue Shield, Toyota Connected North America, Dallas TX, Dallas Texas, Plano TX">
 
 <div align="center">
-  <img src="Al Monteiro - Sr. IT Project Manager Dallas TX.jpg" 
+  <img src="Al_Monteiro_Sr_Technical_Program_Manager_Dallas_TX.jpg" 
        alt="Al Monteiro - Senior Technical Program Manager Dallas TX" 
        style="max-width: 100%; width: 180px; height: auto; border-radius: 16px; margin: 16px 0 12px 0;">
   
