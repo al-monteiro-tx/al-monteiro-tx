@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="Al_Monteiro_Sr_Technical_Program_Manager_Dallas_TX.jpg" 
-       alt="Al Monteiro - Senior Technical Program Manager Dallas TX" 
+       alt="Al Monteiro Dallas TX, Dallas Texas, Senior Technical Program Manager, Enterprise Agile Delivery Lead, Technology Transformation Leader, Enterprise Program Management, Portfolio, PMO Governance, Senior IT Project Manager, Program Manager, Digital Transformation, Lead-to-Cash (L2C), CRM Modernization, SDLC, SaaS Integration, Data Migration, Data Conversion, BI and Analytics, Agile Delivery, Leading SAFe, Scrum" 
        style="max-width: 100%; width: 180px; height: auto; border-radius: 16px; margin: 16px 0 12px 0;">
   
   <h1>Al Monteiro</h1>
