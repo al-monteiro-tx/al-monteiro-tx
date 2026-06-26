@@ -17,7 +17,6 @@
   <p>
     🔗 <strong><a href="https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111">LinkedIn</a></strong> &nbsp;&nbsp; 
     🔗 <strong><a href="https://al-monteiro-tx.github.io/">GitHub</a></strong> &nbsp;&nbsp; 
-    🔗 <strong><a href="https://profile.indeed.com/p/alm-d0wcjqr">Indeed</a></strong>
   </p>
 </div>
 
