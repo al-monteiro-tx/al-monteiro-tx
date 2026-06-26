@@ -38,3 +38,11 @@ Ambiguity IT Project Manager
 Technical Account Manager (TAM)
 Customer Success Manager (CSM)
 Client Services
+Digital Transformation
+Lead-to-Cash (L2C)
+CRM Modernization
+SDLC
+SaaS Integration
+Data Migration /Conversion
+BI & Analytics
+Agile Delivery (Leading SAFe /Scrum)
