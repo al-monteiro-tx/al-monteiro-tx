@@ -1,19 +1,6 @@
 <meta name="description" content="Al Monteiro - Dallas TX (al.monteiro.tx@gmail.com) - Senior Technical Program Manager | Enterprise Agile Delivery Lead | Technology Transformation Leader | Enterprise Program Management | Portfolio & PMO Governance | Senior IT Project Manager | 15+ years in Enterprise Agile Delivery, Digital Transformation, CRM Modernization, BI Analytics, and Technology Transformation">
 <meta name="keywords" content="Technical Program Manager, SAFe Program Consultant, IT Project Manager Dallas, CRM Modernization, Agile Delivery, BI Analytics, Verizon Business, CVS Caremark, Frontier Communications, Blue Cross Blue Shield, Toyota Connected North America, Dallas TX, Dallas Texas, Plano TX">
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Al Monteiro",
-  "jobTitle": "Senior Technical Program Manager",
-  "address": {"@type": "PostalAddress", "addressLocality": "Dallas", "addressRegion": "TX"},
-  "email": "al.monteiro.tx@gmail.com",
-  "url": "https://al-monteiro-tx.github.io/",
-  "sameAs": ["https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111"]
-}
-</script>
-
 <div align="center">
   <img src="Al Monteiro - Sr. IT Project Manager Dallas TX.jpg" 
        alt="Al Monteiro - Senior Technical Program Manager Dallas TX" 
