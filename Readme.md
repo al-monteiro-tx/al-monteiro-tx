@@ -64,7 +64,7 @@ Jira Enterprise, Confluence, Rally Software, Microsoft Project, Visio, Microsoft
 - **Bachelor of Business Administration (BBA)**  
   *LeTourneau University, Dallas, TX*
 
-- **SAFe 6 Certified Program Consultant (SPC)** – Scaled Agile, Inc.
+- **SAFe Agilist** – Scaled Agile, Inc.
 - **Certified Scrum Master (CSM)** – Scrum Alliance
 
 ---
