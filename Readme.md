@@ -10,7 +10,7 @@
   <p><strong>Dallas, TX Metroplex</strong></p>
   
   <p>
-   ✉️ al.monteiro.tx@gmail.com &nbsp;&nbsp; | &nbsp;&nbsp; 
+   ✉️ <a href="mailto:al.monteiro.tx@gmail.com">al.monteiro.tx@gmail.com</a> &nbsp;&nbsp; | &nbsp;&nbsp; 
     Open to Full-time or Contract
   </p>
 
